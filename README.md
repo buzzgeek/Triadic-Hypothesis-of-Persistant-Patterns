@@ -55,9 +55,18 @@ These are **functions**, not entities. They may be distributed across components
 8. **Failure of self-regulation invokes external regulation**\
    If a pattern cannot regulate itself within a larger system governed by the same rules, the surrounding system will regulate it through constraint, transformation, or dissolution.
 
+9. **Trust is required for transformative self-regulation (The Catalyst of Trust)**\
+   During periods of Meta‑Regulation, stable regulatory structures may need to dissolve into a *soft‑shell state* in order to allow reorganization and growth. This transition is inherently stressful, as the pattern temporarily loses its familiar ground. Trust is the internal permission that allows the system to endure this vulnerability without interpreting dissolution as existential death. It is the belief that **Return to Ground (Kali)** is not terminal, but a preparatory interval for **Rebirth (Shakti)**.
+
 ---
 
 ## Dynamic Implications
+
+- Persistence exists **between chaos and rigidity**, not at either extreme.
+- Growth without decline leads to pathological expansion ("infinity‑gone‑mad").
+- Regulation without growth leads to stagnation ("infinity‑gone‑asleep").
+- Decline without grounding leads to dissolution without renewal.
+- **Without Trust, Meta‑Regulation produces fear‑driven rigidity**: the system clings to outdated regulation to avoid the pain of uncertainty, eventually becoming brittle and shattering rather than transforming.
 
 - Persistence exists **between chaos and rigidity**, not at either extreme.
 - Growth without decline leads to pathological expansion ("infinity-gone-mad").
@@ -122,7 +131,20 @@ If any answer is *No*, the hypothesis predicts that the pattern will either:
 
 ---
 
-## Extension: Revision and Meta‑Revision
+## Extension: Revision, Meta‑Revision, and Trust
+
+Dialogue‑driven refinement suggests that **revision** is not optional but foundational. The addition of *Trust* explains how revision becomes subjectively and structurally possible.
+
+### Revised Functional Stack
+
+1. **Growth** — generation of novelty
+2. **Decline** — pruning and termination
+3. **Regulation** — maintenance of boundaries and coherence
+4. **Revision** — adaptation of regulatory rules based on feedback
+5. **Meta‑Revision** — monitoring and stabilizing the revision process itself
+6. **Trust** — permission to enter vulnerability during revision without collapse
+
+Trust functions as a *safety prior*: it allows the system to lower defensive regulation during uncertainty, trusting that its **Target Morphology (Purpose)** will guide reorganization into a more capable form.
 
 Dialogue‑driven refinement suggests that **revision** is not optional but foundational.
 
@@ -210,6 +232,8 @@ Persistence is therefore *decentralized*, not heavy.
 ---
 
 ## Updated Summary Statement
+
+**Aliveness is not a substance but a recursive capability: the capacity of a pattern to regulate, grow, decline, revise its own regulation, *enter vulnerable dissolution through trust*, and sustain this balance across nested scales. Persistence is not the ability to hold on; it is the trust that one can let go and still remain.**
 
 **Aliveness is not a substance but a recursive capability: the capacity of a pattern to regulate, grow, decline, revise its own regulation, and sustain this balance across nested scales. Destruction and blindness are not failures, but structural necessities that keep persistence possible.**
 

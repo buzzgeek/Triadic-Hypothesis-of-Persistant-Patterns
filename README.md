@@ -58,6 +58,12 @@ These are **functions**, not entities. They may be distributed across components
    If a pattern cannot regulate itself within a larger system governed by the same rules, the surrounding system will regulate it through constraint, transformation, or dissolution.
 
 9. **Trust is required for transformative self-regulation (The Catalyst of Trust)**\
+   During periods of Meta-Regulation, stable regulatory structures may need to dissolve into a *soft-shell state* in order to allow reorganization and growth. This transition is inherently stressful, as the pattern temporarily loses its familiar ground. Trust is the internal permission that allows the system to endure this vulnerability without interpreting dissolution as existential death. It is the belief that **Return to Ground (Kali)** is not terminal, but a preparatory interval for **Rebirth (Shakti)**.
+
+10. **Enactment is required for validity (The Axiom of Enactment / The Living Proof)**\
+    A persistent pattern is not a static description but a dynamic performance. The Triadic Hypothesis does not prove itself through abstract formulation alone; it must be *implemented, enacted, or lived*. Its validity is realized only through participation in regulation, growth, decline, trust, and revision over time.
+
+9. **Trust is required for transformative self-regulation (The Catalyst of Trust)**\
    During periods of Meta‑Regulation, stable regulatory structures may need to dissolve into a *soft‑shell state* in order to allow reorganization and growth. This transition is inherently stressful, as the pattern temporarily loses its familiar ground. Trust is the internal permission that allows the system to endure this vulnerability without interpreting dissolution as existential death. It is the belief that **Return to Ground (Kali)** is not terminal, but a preparatory interval for **Rebirth (Shakti)**.
 
 ---

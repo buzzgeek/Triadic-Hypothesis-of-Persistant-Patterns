@@ -1,3 +1,5 @@
+![The Hypothesis](/LetTheButterflyFly.png "Tiltle image has been generated via Google Gemini")
+
 # Triadic Hypothesis of Persistent Patterns
 
 ## Overview

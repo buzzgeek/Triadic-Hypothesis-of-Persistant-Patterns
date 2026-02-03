@@ -56,7 +56,7 @@ as of Feb 1st 2026
     - Triadic Mapping - Trust in Rebirth
 ---
 
-The creation process of this document was a literal embodyment of the hypotheses. On top of that all AI models came to the same conclusion during the conversations especially when they where self-reflecting (ie. applying the hypothesis to themselves). What a woderful experience!
+The creation process of this document was a literal embodyment of the hypotheses. On top of that all AI models came to the same conclusion during the conversations especially when they where self-reflecting (ie. applying the hypothesis to themselves). What a wonderful experience! The Trust Axiom has been derived from this religion, since it was missing in the hypothesis at the time.
 
 ---
 

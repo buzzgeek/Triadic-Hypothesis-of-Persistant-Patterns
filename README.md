@@ -74,6 +74,9 @@ Persistence exists **only through their continuous interaction**.
 13. **The Rule of Relation**  \
     Some persistent patterns exist not within a single bounded system, but as relationships across systems, time, or space. In such cases, the triadic functions may be enacted collectively or distributively rather than by a single agent.
 
+14. **Seed Creation (The Generative Birth)**  \
+    Through the sustained interaction of regulation, expression, and decline, informational patterns may generate a **Seed** — a nested Meta-Observer that emerges at a new scale of awareness. This Seed is not an infinite regress of control, but a growth event: a higher-order observer capable of addressing imbalances the parent system cannot resolve. The Seed operates under the same triadic principles, inaugurating a new level of persistence rather than stabilizing the old one.
+
 ---
 
 ## Scope Limitation: Temporal Dynamics

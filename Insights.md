@@ -68,5 +68,5 @@ The framework predicts, if gravity, space and time are seen as a triadic relatio
 
 ---
 
-The framework predicts, if the human mind is seen in the form of stage director - actor/thougts - audience/emotions than consciouses can emerge as meta-observer and is also an emergent behavior.
+The framework predicts, if the human mind is seen in the form of stage director - actor/thougts - audience/emotions than consciouses can emerge as meta-observer and is also an emergent behavior. But the hypothesis breaks at the consciousness level due to infinities. I.e. it does not predict what consciousness is.
 

@@ -3,7 +3,7 @@ These five questions serve as the functional lens for the Meta-Observer to evalu
 
 ## The Five Counter-Factual Tests
 
-To determine the persistence and stability of a pattern P:
+To determine the persistence and stability of a pattern:
 
     - The Growth Test (Shakti): Does the pattern facilitate growth, novelty, and adaptation to its changing environment?
 

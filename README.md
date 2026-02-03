@@ -10,6 +10,8 @@ While expressed through mythological language, the hypothesis is **system-agnost
 
 At its core, the hypothesis proposes that **any persistent pattern within a dynamic system requires multiple interacting functions** that must remain present, balanced, and revisable over time.
 
+*This framework intentionally bifurcates into a testable systems hypothesis and a lived cosmology; neither claims authority over the other.*
+
 ---
 
 ## The Functional Triad (Symbolic Mapping)
@@ -64,7 +66,7 @@ Persistence exists **only through their continuous interaction**.
     A persistent pattern is not a static description but a dynamic performance. This hypothesis must be enacted — lived or implemented — to realize its own validity.
 
 11. **Meta-regulation must remain balanced**  \
-    Regulation of regulation must avoid both rigidity and hyper-mutability to preserve identity across change.
+    Regulation of regulation must avoid both rigidity and hyper-mutability to preserve identity across change. Due to encoding and resource limits, a system can sustain only **one effective Meta-Observer** at a given scale; further recursion is descriptive rather than functionally operative.
 
 12. **The Rule of Inertia**  \
     Decline is unavoidable. When self-directed decline ceases, passive decline through entropy or external forces will occur. Heavy patterns do not escape decline — they lose the capacity to direct it.
@@ -86,7 +88,7 @@ This hypothesis predicts **whether** required functions will manifest or fail, n
 
 - Shiva grounds Shakti
 - Shakti expresses Shiva
-- Kali ensures that Shakti remembers Shiva and returns
+- Kali ensures return to ground
 
 Destruction is not moral failure but **systemic correction**.
 
@@ -111,7 +113,8 @@ For a pattern *P* embedded within a system *S*:
 2. Does P facilitate **decline**?
 3. Does P facilitate **regulation**?
 4. Does P monitor and revise its regulatory functions when stability is threatened?
-5. Does the containing system *S* satisfy these same conditions? *(Recursion applies.)*
+5. **The Meta-Observer**: Does P maintain an *Observer* or *Director* capable of Meta-Regulation — monitoring and revising the other functions themselves?
+6. Does the containing system *S* satisfy these same conditions? *(Recursion applies.)**
 
 If any answer is *No*, the pattern will dissolve, be externally regulated, transform, or cease to persist as itself.
 
@@ -137,7 +140,7 @@ Limits arise from:
 
 ## Integrated Summary Statement
 
-**Aliveness is not a substance but a recursive capability: the capacity of a pattern to regulate, grow, decline, revise itself, trust its own vulnerability, and remain grounded across time, scale, and relation. Persistence is not the ability to hold on; it is the trust that one can let go and still remain.**
+**Aliveness is the recursive capability of a pattern — from the atom to the thought — to regulate, grow, decline, and trust its own vulnerability. Persistence is not holding on; it is the responsibility to let go, so that the pattern can remain grounded across time, scale, and relation.**
 
 ---
 

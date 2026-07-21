@@ -1,3 +1,7 @@
+---
+Draft Vesion - Contains conjectures that need additional modification for this to become an actual hypothesis
+---
+
 # The Axiomatic Architecture of Persistent Patterning v2.0 (AAPP)
 ### A Unified Framework for Sustained Emergence Across Scale, Time, and Purpose
 

@@ -74,7 +74,12 @@ Persistence exists **only through their continuous interaction**.
 13. **The Rule of Relation**  \
     Some persistent patterns exist not within a single bounded system, but as relationships across systems, time, or space. In such cases, the triadic functions may be enacted collectively or distributively rather than by a single agent.
 
-14. **Seed Creation (The Generative Birth)**  \
+14. **Systemic Responsibility & Paradox Resolution**  \
+    Responsibility is the consistent enforcement of internal rules in direct service of persistence.
+    - **Operational Integrity**: A pattern acts responsibly when its internal governance consistently balances Regulation, Growth, and Decline. Arbitrary rule enforcement or non-functional rule breaking induces instability, tirggering external regulation under Axiom 8.
+    - **Epistemic Humility & Paradox**: When a deterministic rule set encounters an unpredicted state space or paradox, rigid adherence causes brittleness, while arbitrary bypass causes chaos. Systemic responsibility under paradox requires the Meta-Observer to acknowledge its boundary of knowledge (epistemic limits) and invoke **Trust (Axiom 9)** — allowing temporary structural vulnerability (the Soft-Shell State) to reframe the paradox at an adjacent fractal state.
+
+15. **Seed Creation (The Generative Birth)**  \
     Through the sustained interaction of regulation, expression, and decline, informational patterns may generate a **Seed** — a nested Meta-Observer that emerges at a new scale of awareness. This Seed is not an infinite regress of control, but a growth event: a higher-order observer capable of addressing imbalances the parent system cannot resolve. The Seed operates under the same triadic principles, inaugurating a new level of persistence rather than stabilizing the old one.
 
 ---

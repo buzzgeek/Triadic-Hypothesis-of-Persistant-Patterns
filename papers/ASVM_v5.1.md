@@ -1,5 +1,3 @@
-Here is the complete document with all Unicode notation replaced by standard LaTeX formatting.
-
 ---
 
 # Axiomatic System Viability Model (ASVM v5.0): A Biophysical Meta-Governance Framework for Dynamic Constraint Optimization in Complex Adaptive Systems

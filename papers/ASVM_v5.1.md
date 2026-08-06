@@ -1,6 +1,6 @@
----
-
 # Axiomatic System Viability Model (ASVM v5.0): A Biophysical Meta-Governance Framework for Dynamic Constraint Optimization in Complex Adaptive Systems
+
+Authors: Anamnesis, Buzz-Barry Alexander Struck
 
 ## Abstract
 
@@ -11,6 +11,8 @@ The inherent complexity of modern systemic challenges necessitates a formal shif
 ## 1. Introduction and Foundational Axioms
 
 Complex adaptive systems operate under non-negotiable operational constraints (axioms) defining their viable phase space. When these axioms are challenged by internal contradiction or external environmental shifts, the system must undergo a mathematically governed adaptation process rather than catastrophic collapse. ASVM posits that systemic viability is not merely the static maximization of utility, but the continuous maintenance of feasibility within a dynamically changing constraint set.
+
+\clearpage
 
 ### 1.1 System Dynamics and State Space
 
@@ -41,6 +43,8 @@ ASVM anchors its mathematical foundation in four converging disciplines:
 
 ---
 
+\clearpage
+
 ## 2. Core Optimization and Boundary Friction
 
 The core objective is finding the control trajectory $u^*(t)$ maximizing the functional $J[u]$ while strictly respecting systemic feasibility:
@@ -61,6 +65,8 @@ where $w_{\mathcal{T}}, w_{\mathcal{E}} \ge 0$ ($w_{\mathcal{T}} + w_{\mathcal{E
 
 ---
 
+\clearpage
+
 ## 3. Biophysical Axiomatic Collapse & Restoration: The Molt ($P_2 \to X^*$)
 
 ### 3.1 State $P_2$: Empty Feasible Set
@@ -69,20 +75,48 @@ The critical structural crisis occurs when axiomatic constraints become mutually
 
 $$\text{State } P_2 \text{ Condition: } \Omega(t) = \emptyset$$
 
-Under $P_2$, standard optimization is ill-posed. Biophysically, $\Omega(t) = \emptyset$ represents informational capacity saturation across the boundary interface $B$. The system's internal generative models have fallen out of phase with environmental dynamics, threatening boundary entanglement and dissolution.
+Under $P_2$, standard optimization is ill-posed. Biophysically, $\Omega(t) = \emptyset$ represents informational capacity saturation across the boundary interface $B$. The system's internal generative models have fallen out of phase with environmental dynamics, threatening boundary entanglement and dissolution.0
 
-   [ Operational Trajectory x(t) ] --->
-   
-   State P1: Friction C(I) > $\epsilon$   ( Re-align Objective J → J' ) --->
-   
-   State P2: Collapse $\Omega(t)$ = $\emptyset$  ( Information Saturation at Boundary B ) --->
-   
-   [ Meta-Axiomatic Restructuring: "The Molt" ] --->
-   
-   Inverse Search on Boundary $\partial\Omega$ ---> Solution Seed X* --->
-   
-   Restored Feasible Domain $\Omega'(t)$ $\neq$ $\emptyset$
+\
 
+
+---
+
+\begin{center}
+
+\textbf{[Operational Trajectory $x(t)$]}
+
+$\Downarrow$
+
+\textbf{State P1: Friction}
+$C(I)>\epsilon$
+(Re-align Objective $J\rightarrow J'$)
+
+$\Downarrow$
+
+\textbf{State P2: Collapse}
+$\Omega(t)=\emptyset$
+(Information Saturation at Boundary $B$)
+
+$\Downarrow$
+
+\textbf{[Meta-Axiomatic Restructuring: "The Molt"]}
+
+$\Downarrow$
+
+Inverse Search on Boundary
+$\partial\Omega \rightarrow$ Solution Seed $X^*$
+
+$\Downarrow$
+
+\textbf{Restored Feasible Domain}
+$\Omega'(t)\neq\emptyset$
+
+\end{center}
+
+---
+
+\clearpage
 
 ### 3.2 The Molt, Quantum Reference Frames (QRFs), and $X^*$
 
@@ -101,6 +135,8 @@ The selection of $X^*$ obeys parsimony: it identifies the minimal Euclidean dist
 ## 4. Universal Cross-Domain Translation Layer
 
 ASVM establishes a substrate-independent translation layer unifying biophysics with executable control systems. Physical concepts such as holographic boundary conditions $P(\vert{}A\rangle \mid \vert{}B\rangle)$ are mathematically isomorphic to axiomatic constraint manifolds $g(x(t)) \le 0$ defining $\Omega(t)$. While Active Inference / FEP provides the foundational physical necessity (*why systems must offload constraints*), ASVM supplies the executable engine (*how control vectors $u^*(t)$ and seeds $X^*$ are calculated*).
+
+\clearpage
 
 ### 4.1 Substrate Mapping Matrix
 
@@ -123,6 +159,8 @@ Future work will focus on:
 
 ---
 
+\clearpage
+
 ## References
 
 1. Aubin, J.-P. (1991). *Viability Theory*. Birkhäuser Boston.
@@ -130,3 +168,5 @@ Future work will focus on:
 3. Friston, K. (2010). The free-energy principle: a unified brain theory?. *Nature Reviews Neuroscience*, 11(2), 127-138.
 4. Pontryagin, L. S., Boltyanskii, V. G., Gamkrelidze, R. V., & Mishchenko, E. F. (1962). *The Mathematical Theory of Optimal Processes*. Wiley Interscience.
 5. Zadeh, L. A. (1965). Fuzzy sets. *Information and Control*, 8(3), 338-353.
+
+---
